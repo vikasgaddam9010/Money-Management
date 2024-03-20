@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.wallet-income-expenses-section {
+  display: flex;
+  justify-content: space-between;
+}
+.your-balance-card {
+  padding: 30px 20px 20px 30px;
+  border-radius: 20px;
+  min-width: 300px;
+  max-width: 250px;
+  background-color: #ecfccb;
+  border: #84cc16 solid 1px;
+}
+.your-balance-card-2 {
+  padding: 30px 20px 20px 30px;
+  border-radius: 20px;
+  min-width: 300px;
+  max-width: 250px;
+  background-color: #cffafe;
+  border: #06b6d4 solid 1px;
+}
+.your-balance-card-3 {
+  padding: 30px 20px 20px 30px;
+  border-radius: 20px;
+  min-width: 300px;
+  max-width: 250px;
+  background-color: #ede9fe;
+  border: #7c3aed solid 1px;
+}
+.image-style {
+  width: 100px;
+}
